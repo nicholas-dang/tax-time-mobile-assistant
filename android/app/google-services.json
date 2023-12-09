@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124746035991",
+    "project_id": "taxtimemobileassistant-a18f0",
+    "storage_bucket": "taxtimemobileassistant-a18f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124746035991:android:3bb2aa540623a9aff27d52",
+        "android_client_info": {
+          "package_name": "com.taxtimemobileassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124746035991-jli7e8ibpk3jbqqreka4p9oj3rsihk7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxtimemobileassistant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "124746035991-5n2i2mfvg894ee5993ujve8e22slkdue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wBtEmNr3R89BGLrzhvH6oLSYr2iNhvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124746035991-5n2i2mfvg894ee5993ujve8e22slkdue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
